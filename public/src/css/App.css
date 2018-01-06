@@ -1,0 +1,12 @@
+.grid-item {
+
+  height:120px;
+  overflow:scroll;
+  overflow-x:hidden;
+  overflow-y:auto;
+}
+
+.hashtag {
+  width: auto;
+  display: block
+}
